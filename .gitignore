@@ -1,0 +1,23 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# IDE
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# 模型和训练文件
+models/
+checkpoints/
+datasets/
+*.safetensors
+*.pt
+*.pth
+
+# 日志与本地配置
+*.log
+.env
