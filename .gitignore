@@ -21,3 +21,9 @@ datasets/
 # 日志与本地配置
 *.log
 .env
+
+# PyTorch model weights
+*.pth
+
+# Python cache
+__pycache__/
